@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+oracledb==1.0.0
+upstash-redis>=0.12.1  
+pydantic==1.8.2
